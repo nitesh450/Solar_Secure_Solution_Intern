@@ -16,11 +16,11 @@ const Footer = () => {
         <h5 className="footer__title mb-3">Delivery Time</h5>
         <ListGroup>
           <div className="delivery__time-item border-0 ps-0">
-            <span>Friday - Tuesday</span>
+            <span>Monday - Friday</span>
             <p>10:00am - 11:00pm</p>
           </div>
           <div className="delivery__time-item border-0 ps-0">
-            <span>Wednesday - Thursday</span>
+            <span>Saturday - Sunday</span>
             <p>Off day</p>
           </div>
         </ListGroup>
